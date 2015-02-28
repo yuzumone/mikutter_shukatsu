@@ -1,0 +1,9 @@
+---
+slug: :mikutter_shukatsu
+depends:
+  mikutter: 3.2.0
+  plugin: []
+version: '1.0'
+author: yuzumone
+name: mikutter_shukatsu
+description: "みくったーちゃんが就活情報をお届けします"
